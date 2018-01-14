@@ -18,7 +18,7 @@
 
 ## 2.有米广告模式
 
-![](https://ws1.sinaimg.cn/large/005Be9ptgy1fn6x48vdptj30f706774j.jpg)
+![s](https://ws1.sinaimg.cn/large/005Be9ptgy1fn6x48vdptj30f706774j.jpg)
 
 #### 如何通过行为分析解决推送广告类型：
 1.个人移动手机应用行为特征与移动广告类型点击行为的相关性；
